@@ -1,6 +1,6 @@
 package controllers
 
-import "github.com/revel/revel"
+import "ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
 
 type App struct {
 	*revel.Controller

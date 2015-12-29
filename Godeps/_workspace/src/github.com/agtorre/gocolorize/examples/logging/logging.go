@@ -2,7 +2,7 @@
 package main
 
 import (
-	"github.com/agtorre/gocolorize"
+	"ForeginWWW/Godeps/_workspace/src/github.com/agtorre/gocolorize"
 	"log"
 	"os"
 )

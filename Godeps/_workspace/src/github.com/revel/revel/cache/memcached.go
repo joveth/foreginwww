@@ -1,9 +1,9 @@
 package cache
 
 import (
+	"ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
 	"errors"
 	"github.com/bradfitz/gomemcache/memcache"
-	"github.com/revel/revel"
 	"time"
 )
 
