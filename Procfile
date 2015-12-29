@@ -1,1 +1,1 @@
-ForeginWWW
+web: binary-name -basePath /app -revelSrcPath /app/vendor -runMode prod -port $PORT
