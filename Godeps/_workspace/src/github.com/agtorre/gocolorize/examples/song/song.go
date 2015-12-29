@@ -2,8 +2,8 @@
 package main
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/agtorre/gocolorize"
 	"fmt"
+	"github.com/agtorre/gocolorize"
 )
 
 func main() {

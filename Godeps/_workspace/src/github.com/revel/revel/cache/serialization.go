@@ -1,9 +1,9 @@
 package cache
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
 	"bytes"
 	"encoding/gob"
+	"github.com/revel/revel"
 	"reflect"
 	"strconv"
 )

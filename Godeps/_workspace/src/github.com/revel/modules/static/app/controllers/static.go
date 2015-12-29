@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
+	"github.com/revel/revel"
 	"os"
 	fpath "path/filepath"
 	"strings"

@@ -1,8 +1,8 @@
 package app
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
 	"fmt"
+	"github.com/revel/revel"
 )
 
 func init() {

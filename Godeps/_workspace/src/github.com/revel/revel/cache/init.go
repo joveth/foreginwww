@@ -1,7 +1,7 @@
 package cache
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
+	"github.com/revel/revel"
 	"strings"
 	"time"
 )

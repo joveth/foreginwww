@@ -1,8 +1,8 @@
 package revel
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/robfig/config"
 	"fmt"
+	"github.com/robfig/config"
 	"os"
 	"path/filepath"
 	"regexp"

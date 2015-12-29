@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"ForeginWWW/Godeps/_workspace/src/github.com/revel/revel"
 	"ForeginWWW/app/utils"
+	"github.com/revel/revel"
 )
 
 type App struct {
